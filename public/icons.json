@@ -1,6 +1,4 @@
 {
-  "short_name": "ACNH",
-  "name": "ACNH",
   "icons": [
     {
       "src": "windows10/Square71x71Logo.scale-400.png",
@@ -414,10 +412,5 @@
       "src": "firefox/firefox-general-16-16.png",
       "sizes": "16x16"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "prefer_related_applications": true
+  ]
 }
